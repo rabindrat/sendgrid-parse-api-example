@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/sendgrid/sendgrid-parse-api-example/master/sendgrid-parse-api-example.png)
 
-Example application using the SendGrid Parse API. 
+Example application using the SendGrid Parse API. This fork uses [express](http://expressjs.com/), and [multer](https://github.com/expressjs/multer)
 
 This application demonstrates how to use SendGrid's Parse API. Additionally, it acts as a boilerplate of code that you can adjust to your own needs. It comes with complete instructions for getting the SendGrid Parse API working.
 
